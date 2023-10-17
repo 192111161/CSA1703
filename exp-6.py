@@ -33,7 +33,5 @@ while x < 4:
         y+=1
     x+=1
     y=0
-pro= (100-((z/16)*100))
 print("Room is clean now, Thanks for using : 3710933")
 display(room)
-print('performance=',pro,'%')
